@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "question": "What is phishing?",
+    "options": [
+      "A cyber attack",
+      "A fish species",
+      "A database",
+      "An operating system"
+    ],
+    "answer": "A cyber attack"
+  },
+  {
+    "id": 2,
+    "question": "Which password is strongest?",
+    "options": [
+      "123456",
+      "password",
+      "Admin123",
+      "G@7x!9Pq#2Lm"
+    ],
+    "answer": "G@7x!9Pq#2Lm"
+  }
+]
